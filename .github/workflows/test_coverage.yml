@@ -20,5 +20,5 @@ jobs:
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v1
         with:
-          file: reports/coverage/coverage.json
+          directory: reports/coverage
           flags: unittests
