@@ -1,0 +1,40 @@
+{
+  "name": "@stdlib/constants-uint16-num-bytes",
+  "version": "0.0.0",
+  "description": "Size (in bytes) of a 16-bit unsigned integer.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/constants-uint16-num-bytes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "constant",
+    "const",
+    "mathematics",
+    "math",
+    "uint16",
+    "16-bit",
+    "16bit",
+    "integer",
+    "int",
+    "unsigned",
+    "size",
+    "sizeof",
+    "size-of",
+    "bytes",
+    "nbytes",
+    "bits"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
