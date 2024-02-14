@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import UINT16_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint16-num-bytes@esm/index.mjs';
+import UINT16_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint16-num-bytes@v0.2.0-esm/index.mjs';
 ```
 
 #### UINT16_NUM_BYTES
@@ -72,7 +72,7 @@ var bool = ( UINT16_NUM_BYTES === 2 );
 <body>
 <script type="module">
 
-import UINT16_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint16-num-bytes@esm/index.mjs';
+import UINT16_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint16-num-bytes@v0.2.0-esm/index.mjs';
 
 console.log( UINT16_NUM_BYTES );
 // => 2
